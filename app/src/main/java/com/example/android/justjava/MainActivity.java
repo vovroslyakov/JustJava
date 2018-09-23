@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         display(quantity);
     }
 
-
+/*test*/
     public void submitOrder(View view) {
 //        int numbersOfCoffes = quantity;
 //        display(numbersOfCoffes);
